@@ -8,7 +8,6 @@ This data will be used for training models that can detect anomalies during task
 # data_processing_scripts INFO
 * All the script can be -h command to find the specific usage.
 
-'''
 1. Transfer the rosbag *.bag file to *.csv files
 >> python process_rosbag_patch -d ./PATH_TO_FOLDER
-'''
+
